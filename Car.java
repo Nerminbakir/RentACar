@@ -7,4 +7,5 @@
 // farklı kodlar yazdım.
 
 // bazı çalışmalar yaptım.
+// lokalde conflict olursa
 
