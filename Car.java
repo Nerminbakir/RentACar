@@ -3,4 +3,8 @@
 
 
 // yeni kodlar ekledim.
+
 // farklı kodlar yazdım.
+
+// bazı çalışmalar yaptım.
+
